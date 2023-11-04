@@ -2,7 +2,7 @@ package ntou.cs.java2023;
 import java.util.Scanner;
 public class BMICalculator {
     public static void main(String[] args){
-        double BMI,weight,height;
+        int BMI,weight,height;
         String state="c";
         Scanner input =new Scanner(System.in);
         System.out.printf("welcome to the BMI (Body Mass Index) calculator%n");
