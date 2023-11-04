@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class BMICalculator {
     public static void main(String[] args){
         double BMI,weight,height;
-        String state="a";
+        String state="b";
         Scanner input =new Scanner(System.in);
         System.out.printf("welcome to the BMI (Body Mass Index) calculator%n");
         System.out.printf("Please enter your weight (kilogram): ");
